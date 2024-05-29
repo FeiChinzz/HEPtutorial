@@ -1,4 +1,4 @@
-<img width="813" alt="ps" src="https://github.com/FeiChinzz/HEPtutorial/assets/131566183/2587ff23-bab4-4213-801d-d567016d8750"><img width="813" alt="ps" src="https://github.com/FeiChinzz/HEPtutorial/assets/131566183/e3922aed-ead8-4574-86fc-760422de426b"># Docker tutorial
+# Docker tutorial
   Docker is a kind of virtual system with the advantage of ease of management. Docker basically consists of docker images and docker containers. A docker container is a environment that runs applications, and a docker images is a read-only template used to build containers.
 
 ## Basic commands
