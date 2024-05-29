@@ -87,7 +87,7 @@
   docker attach CONTAINERNAME
   ```
 
-  to get into the container. For example, I want to get into the creadted container `Tutorial_test`:
+  to get into the container. For example, I want to get into the created container `Tutorial_test`:
 
   <img width="286" alt="start" src="https://github.com/FeiChinzz/HEPtutorial/assets/131566183/7e971b33-3c1d-4378-8289-f68d46987852">
 
